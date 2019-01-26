@@ -5,6 +5,7 @@ I am enjoying learning to code so much. This is one of the jQuery exercise of th
 Besides I got to learn 
 
 > Placing files in better folder structure and 
+
 > Got some ideas on organising CSS based on the specificity of selector where specificity refers to which CSS rule is first applied to the element.
 
 Learnt from : Web Developer Bootcamp course Udemy
